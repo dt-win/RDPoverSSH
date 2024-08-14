@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/micahmo/RDPoverSSH/main/RDPoverSSH/Images/logo.png)
+![logo](https://raw.githubusercontent.com/dt-win/RDPoverSSH/main/RDPoverSSH/Images/logo.png)
 
 
 # RDPoverSSH
@@ -17,11 +17,11 @@ For some background on how reverse SSH tunnels work, check out the several great
 
 ## Download
 
-Download the latest release [here](https://github.com/micahmo/RDPoverSSH/releases/latest).
+Download the latest release [here](https://github.com/dt-win/RDPoverSSH/releases/latest).
 
 ## How to Use
 
-See the [wiki](https://github.com/micahmo/RDPoverSSH/wiki) for full instructions.
+See the [wiki](https://github.com/dt-win/RDPoverSSH/wiki) for full instructions.
 
 ## Screenshots
 
@@ -29,29 +29,29 @@ See the [wiki](https://github.com/micahmo/RDPoverSSH/wiki) for full instructions
 
 #### Connection Source
 
-![image](https://github.com/micahmo/RDPoverSSH/assets/7417301/6e7f7f96-6514-4183-8bce-f02f6a339db3)
+![image](https://github.com/dt-win/RDPoverSSH/assets/7417301/6e7f7f96-6514-4183-8bce-f02f6a339db3)
 
 #### Connection Target
 
-![image](https://github.com/micahmo/RDPoverSSH/assets/7417301/08ca77a8-f495-47de-8c71-e1d65efb3f9b)
+![image](https://github.com/dt-win/RDPoverSSH/assets/7417301/08ca77a8-f495-47de-8c71-e1d65efb3f9b)
 
 ### RDP over Reverse Tunnel
 
 #### Connection Source
 
-![image](https://github.com/micahmo/RDPoverSSH/assets/7417301/10b5cf31-5cbb-4212-a245-fd0f5f4758d3)
+![image](https://github.com/dt-win/RDPoverSSH/assets/7417301/10b5cf31-5cbb-4212-a245-fd0f5f4758d3)
 
 #### Connection Target
 
-![image](https://github.com/micahmo/RDPoverSSH/assets/7417301/f28a343a-d8fd-4068-805d-ed517815d4e0)
+![image](https://github.com/dt-win/RDPoverSSH/assets/7417301/f28a343a-d8fd-4068-805d-ed517815d4e0)
 
 ### Condensed UI
 
-![image](https://github.com/micahmo/RDPoverSSH/assets/7417301/fb33b4e4-a5df-4bea-bd85-78b39e083ad1)
+![image](https://github.com/dt-win/RDPoverSSH/assets/7417301/fb33b4e4-a5df-4bea-bd85-78b39e083ad1)
 
 ### Dark Mode
 
-![image](https://github.com/micahmo/RDPoverSSH/assets/7417301/8556ed36-e374-41fb-9f3c-45ad717513a9)
+![image](https://github.com/dt-win/RDPoverSSH/assets/7417301/8556ed36-e374-41fb-9f3c-45ad717513a9)
 
 ## Requirements
 
