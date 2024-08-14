@@ -29,7 +29,7 @@ See the [wiki](https://github.com/dt-win/RDPoverSSH/wiki) for full instructions.
 
 #### Connection Source
 
-![image]([https://github.com/dt-win/RDPoverSSH/assets/7417301/6e7f7f96-6514-4183-8bce-f02f6a339db3](https://private-user-images.githubusercontent.com/7417301/240734643-6e7f7f96-6514-4183-8bce-f02f6a339db3.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjM2MDA3ODEsIm5iZiI6MTcyMzYwMDQ4MSwicGF0aCI6Ii83NDE3MzAxLzI0MDczNDY0My02ZTdmN2Y5Ni02NTE0LTQxODMtOGJjZS1mMDJmNmEzMzlkYjMucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDgxNCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDA4MTRUMDE1NDQxWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZDdkZDkwOTdjMDUyMGFjMzhjMGVmNWRhNWY1ZGQxNmNmM2E5MGUzMDVkMzRmZWUwNjMzY2ExZTI1OWI4NDc4YyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.tFBlhqHOilywhO4fmWwtVZt8PBIeGZiG3YrqknigZds))
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/7417301/240734643-6e7f7f96-6514-4183-8bce-f02f6a339db3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240814%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240814T015754Z&X-Amz-Expires=300&X-Amz-Signature=cba0d2ef1550b2378f5e4b61b013f6ae3ddc50903bf1ce77857b1d1fddeca222&X-Amz-SignedHeaders=host&actor_id=99040765&key_id=0&repo_id=429996846)
 
 #### Connection Target
 
